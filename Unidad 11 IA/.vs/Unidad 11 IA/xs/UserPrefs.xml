@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{487A180C-95A0-0825-8C03-AF0DA046CC5A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/EnemyAbilities.cs">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/PointAndClickMove.cs" Line="51" Column="50" />
+      <File FileName="Assets/GameAssets/Scripts/SlowArea.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Enemy.cs" />
+      <File FileName="Assets/GameAssets/Scripts/Patrol.cs" Line="69" Column="14" />
+      <File FileName="Assets/GameAssets/Scripts/Player.cs" />
+      <File FileName="Assets/GameAssets/Scripts/EnemyAbilities.cs" Line="79" Column="10" />
+      <File FileName="Assets/GameAssets/Scripts/Alert.cs" Line="17" Column="46" />
+      <File FileName="Assets/GameAssets/Scripts/Killer.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 11 IA" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="EnemyAbilities.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9213a237-488e-4fef-8c4e-5b87b487ba19" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
